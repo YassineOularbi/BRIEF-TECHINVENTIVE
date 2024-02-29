@@ -91,3 +91,8 @@ header > button > a:hover{
     cursor: pointer;
     transition: 0.8s;
 }
+.section1 > button:hover{
+    border: 1px solid #FFF;
+    background: transparent;
+    color: #FFF;
+}
