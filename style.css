@@ -96,3 +96,79 @@ header > button > a:hover{
     background: transparent;
     color: #FFF;
 }
+.section2{
+    width: 100%;
+    height: 460px;
+    background-color: #F8F9FB;
+    display: flex;
+
+}
+#Desktop > img{
+    margin-top : 138px;
+    width:  72px;
+    height: 64px;
+    margin-left: 215px;
+}
+#Desktop > h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 18px;
+}
+#Desktop > p{
+    margin-left: 120px;
+    margin-top: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.5;
+    line-height: 29px;
+}
+#Layer > img{
+    margin-top : 122px;
+    width:  80px;
+    height: 80px;
+    margin-left: 210px;
+}
+#Layer > h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+#Layer > p{
+    margin-left: 115px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.5;
+    line-height: 29px;
+}
+#Check > img{
+    margin-top : 130px;
+    width:  77px;
+    height: 78px;
+    margin-left: 190px;
+}
+#Check > h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 155px;
+    margin-top: 5px;
+}
+#Check > p{
+    margin-left: 85px;
+    margin-top: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.5;
+    line-height: 29px;
+}
